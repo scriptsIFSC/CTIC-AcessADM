@@ -19,6 +19,8 @@ Para garantir que todos os processos do Windows sejam desligados completamente:
 5. Adicione o parâmetro `init=/bin/bash` ao final da linha.
 6. Pressione "Ctrl+X" ou "F10" para iniciar o sistema com as alterações.
 
+Este passo apenas do GRUB pode ser necessário executar duas vezes.
+
 ### Passo 3: Sticky Keys Backdoor
 
 1. Após entrar no terminal bash, execute os seguintes comandos:
